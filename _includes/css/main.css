@@ -571,15 +571,6 @@ footer .footer-below {
 
 /* Handles the display for the buttons and content on the all games page */
 
-.games-row-header .btn {
-  visibility: hidden; /* Hide button */
-      
-}
-
-.games-row-header:hover .btn {
-   visibility: visible; /* On :hover of div show button */
-   margin: 0 auto;
-}
 
 .games-row {
     margin-top:30px;
