@@ -1,0 +1,56 @@
+# Site settings
+title: What Up Games
+email: support@whatupgames.com
+url: https:/what-up-games.github.io
+description: "What Up Games, LLC is an indie game studio that was founded in 2015. We pride ourselves on new and innovative ideas as well as re-imagining classic games from our childhood. While we are always working on new ideas, we love to collaborate with individuals or companies who need help in bringing their vision to fruition. Additionally, we enjoy contributing to the game development community by providing online tutorials, helping out on numerous community sites as well as providing interactive live training on Twitch."
+skills: "Web Developer - Graphic Artist - User Experience Designer"
+meta_author: Haffner Stacey
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 0770A2 #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 444 #FD6E8A
+  secondary-dark: 444 #A2122F
+
+# Footer settings
+footer:
+  copyright: What Up Games, LLC
+  contact: Contact
+  social: Get Social
+  games: Games    
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/whatupgames
+  - title: twitch
+    url: www.twitch.tv/yecats131    
+  - title: facebook
+    url: http://www.facebook.com/whatupgames
+  - title: github
+    url: http://github.com/What-Up-Games
+  - title: google-plus
+    url: https://plus.google.com/107322421833659638309
+  - title: envelope-o
+    url: mailto:support@whatupgames.com?subject=Mail from Our Site
+
+    
+# Postal address (add as many lines as necessary)
+contactInfo:
+  - line: support@whatupgames.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
