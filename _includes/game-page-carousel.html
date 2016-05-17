@@ -1,0 +1,53 @@
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div id="gameImages" class="carousel slide gamesCarousel" data-ride="carousel">
+                        {% capture sliderPath %}{{ page.folderPath }}/slider{% endcapture %}                        
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            {% assign firstItem = "true" %}
+                            {% for image in site.static_files %}
+                                {% if image.path contains sliderPath %}
+                                    {% if firstItem == "true" %}
+                                        <li data-target="#gameImages" data-slide-to="{{image.index}}" class="active"></li>
+                                    {% assign firstItem = "false" %}
+                                    {% else %}
+                                        <li data-target="#gameImages" data-slide-to="{{image.index}}"></li>
+                                    {% endif %}
+                                {% endif %}
+                            {% endfor %}                             
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox">
+
+                        {% assign firstItem = "true" %}
+                        {% for image in site.static_files %}
+                            {% if image.path contains sliderPath %}
+                                {% if firstItem == "true" %}
+                                <div class="item active">
+                                    <img class="img-thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+                                </div>
+                                {% assign firstItem = "false" %}
+                                {% else %}
+                                <div class="item">
+                                    <img class="img-thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+                                </div>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}  
+                        </div>
+
+                        <!-- Left and right controls -->
+                        <a class="left carousel-control" href="#gameImages" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#gameImages" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>

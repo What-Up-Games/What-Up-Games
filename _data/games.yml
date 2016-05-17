@@ -1,0 +1,23 @@
+  
+# Game List
+gameTitles: 
+ - title: Dumpster Dash
+ - title: Java Tapper
+ - title: Conveyor Mania
+ 
+gameDownload:
+ - title: Dumpster Dash
+   url-type: android
+   url: https://play.google.com/store/apps/details?id=com.WhatUpGames.DumpsterDash
+ - title: Dumpster Dash
+   url-type: windows
+   url: http://gamejolt.com/games/dumpster-dash/82186
+ - title: Java Tapper
+   url-type: android
+   url: https://play.google.com/store/apps/details?id=com.whatupgames.javatapper
+ - title: Java Tapper
+   url-type: windows
+   url: http://gamejolt.com/games/java-tapper/76186     
+ - title: Conveyor Mania
+   url-type: android
+   url: https://play.google.com/store/apps/details?id=com.WhatUpGames.ConveyorMania  
