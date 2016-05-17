@@ -23,22 +23,40 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
+                {% if page.url == '/' or page.url == '/#games' or page.url == '/#about' or page.url == '/#social'  %}
                     <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#games">Games</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#devBlog">Dev Blog</a>
+                    </li>                    
+                    <li class="page-scroll">
+                        <a href="#about">About</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#social">Get Social</a>
+                    </li>
+               {% else %}
+                      <li class="hidden">
                         <a href="http://www.whatupgames.com/#page-top"></a>
                     </li>
                     <li class="page-scroll">
                         <a href="http://www.whatupgames.com/#games">Games</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="http://www.whatupgames.com/}#devBlog">Dev Blog</a>
+                        <a href="http://www.whatupgames.com/#devBlog">Dev Blog</a>
                     </li>                    
                     <li class="page-scroll">
                         <a href="http://www.whatupgames.com/#about">About</a>
-                    </li>
+                    </li>          
+               {% endif%}
                     <li class="page-scroll">
                         <a href="#social">Get Social</a>
-                    </li>
-                </ul>
+                    </li>   
+                </ul>               
             </div>
             <!-- /.navbar-collapse -->
         </div>
