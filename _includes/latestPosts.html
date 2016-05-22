@@ -1,0 +1,30 @@
+
+    <section id="games" class="success" style="margin-top:50px;">
+        <div class="container">  
+            <div class="row">
+                <div class="col-lg-12 text-center">
+    <h2>Latest Dev Updates</h2>
+    <hr class="code-light">
+</div>
+            {% for post in site.posts %}
+                {% if forloop.index == 4 %}
+                {% break %}
+                {% endif %}
+                <div class="col-lg-4 text-center">
+                    <a href="{{post.url}}" style="color:white;">
+                    
+                    <img src="{{site.base}}/{{post.game}}/{{post.date | date: "%Y-%m-%d" }}/post.png" class="img-responsive img-thumbnail" />
+                    
+                    <h3>{{ post.title }}</h3>
+                    </a>
+                </div>
+            {% endfor %}
+                </div>
+            </div>
+                <div class="col-lg-12 text-center">
+                    <a href="{{site.base}}/devBlog/" class="btn btn-lg btn-outline">
+                        Read More
+                    </a>
+                </div>            
+    </section>
+    

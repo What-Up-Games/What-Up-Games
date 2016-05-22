@@ -283,6 +283,12 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+    
+}
+
+section.success a:hover {
+    color: #d9d9d9;
+    text-decoration: none;
 }
 
 @media(max-width:767px) {
@@ -629,4 +635,24 @@ footer .footer-below {
 
 .game-plat {
     margin-top:15px;
+}
+
+.postContent {
+    text-align: justify;
+}
+
+.postContent h1, h2, h3, h4 {
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.postContent iframe {
+    margin: 0 auto;
+    display: block;
+    width: 900px;
+    height:450px;
+}
+
+.postContent ul, li {
+    font-size:20px;
 }
