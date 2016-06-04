@@ -1,3 +1,5 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+Twitch/
+_data/twitchData.yml

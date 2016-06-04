@@ -13,7 +13,7 @@ game:
   folderPath: operationBrasnodar
 - title: Dumpster Dash
   status: Released
-  description: “Operation Brasnodar” is the first city under development for a multiplayer tactical espionage game. Game play will focus around small team PvP and possible co-op play. Players will take on the role of an operative in the Quail, or become a member of the Agency. The Quail focuses on completing missions in order to take down the Agency and free those who have been mind controlled. The Agency is out to catch all members of the Quail and silence the uprising.
+  description: Dumpster Dash is a fast paced "tap" style game that tests how quickly you can react to new obstacles. Compete with your friends to see who can grab the most dumpsters with their dumpster truck before the time runs out or you accidentally send little Fluffy or Spot to heaven.
   image: frontPage.png  
   folderPath: dumpsterDash
 - title: Java Tapper
