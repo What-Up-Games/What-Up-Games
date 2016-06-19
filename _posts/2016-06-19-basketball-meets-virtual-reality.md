@@ -44,9 +44,9 @@ In the coming weeks we will wrap up the barebone mechanics behind multiplayer, p
 
 
 * <b>[Completed]</b> Single Player Practice Mode
-* <b>[Not Started]</b> Single Player Timed Compitition
+* <b>[Not Started]</b> Single Player Timed Competition
 * <b>[In Progress]</b> Multiplayer Free Throw
-* <b>[In Progress]</b> Multiplayer Timed Compitition
+* <b>[In Progress]</b> Multiplayer Timed Competition
 * <b>[Not Started]</b> Multiplayer "Horse"
 
 If you are interested in following along with the development you can follow us on:
