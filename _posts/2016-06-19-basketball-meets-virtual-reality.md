@@ -5,15 +5,15 @@ shortTitle: Basketball Meets Virtual Reality
 date: 2016-06-19
 author: Stacey Haffner
 comments: true
-game: basketballVR
-categories: [basketballVR]
+game: NothinButNet
+categories: [NothinButNet]
 excerpt: The making of a virtual reality (VR) game is something that we knew as an up and coming studio and extremely passionate gamers, we just couldn't miss out on. Making a VR game presents a unique opportunity that does not come around often...
 ---
-<img src="{{site.base}}/basketballVR/2016-06-19/post.png" class="img-responsive img-thumbnail" />
+<img src="{{site.base}}/NothinButNet/2016-06-19/post.png" class="img-responsive img-thumbnail" />
 
 Making a virtual reality (VR) game while the technology is still early was something that we knew as an up and coming studio and extremely passionate gamers, we just couldn't miss out on. Creating a VR game presents a unique opportunity that does not come around often - The opportunity to define new game mechanics for old genres. In other words, if you were to take a strategy game and move it over to VR without rethinking the mechanics, it would go against what we believe the core principle of VR is, immersion. The player wouldn't be immersed in a world that isn't their own but would instead fumble with awkward controls that would only aid in drawing them out of it. Everything needs to be reconsidered, from general camera perspective (3rd person or 1st person) to basics such as movement, physics, environment scaling, etc. 
 
-After much deliberation (e.g. a few days of discussion), we decided it would be fun to tackle a multiplayer basketball game as our first virtual reality game. We have yet to come up with the official name, though we have been calling it "Half Court Heroes" around the studio.
+After much deliberation (e.g. a few days of discussion), we decided it would be fun to tackle a multiplayer basketball game as our first virtual reality game. We have yet to come up with the official name, though we have been calling it "Nothin' But Net" around the studio.
 
 <h2>Our First VR Steps</h2>
 
