@@ -66,7 +66,35 @@ hr.gamepad-light:after {
     background-color: #{{ site.color.primary }};
 }
 
+hr.latestNews-light,
+hr.latestNews-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
 
+hr.latestNews-light:after,
+hr.latestNews-primary:after {
+    content: "\f1ea";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+hr.latestNews-light {
+    border-color: #fff;
+}
+
+hr.latestNews-light:after {
+    color: #fff;
+    background-color: #{{ site.color.primary }};
+}
 
 hr.code-light,
 hr.code-primary {
@@ -172,6 +200,16 @@ hr.gamepad-primary:after {
     background-color: #fff;
 }
 
+hr.latestNews-primary {
+    border-color: #{{ site.color.secondary }};
+}
+
+hr.latestNews-primary:after {
+    color: #{{ site.color.secondary }};
+    background-color: #fff;
+}
+
+
 .img-centered {
     margin: 0 auto;
 }
@@ -182,9 +220,9 @@ header {
     background: #{{ site.color.primary }};
 }
 
-header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+header .container  {
+    padding-top: 200px !important;
+    padding-bottom: 75px !important;
 }
 
 header img {
@@ -272,7 +310,8 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 section h2 {
@@ -643,8 +682,9 @@ footer .footer-below {
 
 .postContent h1, h2, h3, h4 {
     text-align: center;
-    padding-top:10px;
+    padding-top:0px;
     padding-bottom:10px;
+    margin-top: 0px;
 }
 .postContent iframe {
     margin: 0 auto;

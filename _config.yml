@@ -5,6 +5,7 @@ url: https:/what-up-games.github.io
 description: "What Up Games, LLC is an indie game studio that was founded in 2015. We pride ourselves on new and innovative ideas as well as re-imagining classic games from our childhood. While we are always working on new ideas, we love to collaborate with individuals or companies who need help in bringing their vision to fruition. Additionally, we enjoy contributing to the game development community by providing online tutorials, helping out on numerous community sites as well as providing interactive live training on Twitch."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Haffner Stacey
+exclude: [vendor]
 
 # Google webmaster tools
 google_verify:
@@ -35,6 +36,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/whatupgames
+  - title: youtube
+    url: https://www.youtube.com/channel/UC4kQ2w__P06Rw1403e4Tmqw
   - title: twitch
     url: http://www.twitch.tv/yecats131    
   - title: facebook
@@ -44,7 +47,7 @@ social:
   - title: google-plus
     url: https://plus.google.com/107322421833659638309
   - title: envelope-o
-    url: mailto:support@whatupgames.com?subject=Mail from Our Site
+    url: mailto:support@whatupgames.com?subject=Support Question
 
     
 # Postal address (add as many lines as necessary)
