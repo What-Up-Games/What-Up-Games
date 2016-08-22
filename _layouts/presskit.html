@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body id="page-top" class="index">
+    {% include nav.html %}
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-text">
+                        <span class="name">Presskit</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="Description">
+        <div class="container">
+            <div class="row" style="font-size:20px;">
+                <div class="col-lg-12 text-center">
+                    <h1>{{ page.title }}</h1>
+                    <br/>
+                </div>
+
+                {% for md in page.metadata %}
+                <div class="col-lg-3">
+                    <b>{{ md.header }}:</b> {% for item in md.items %} {% if item.url %}
+                    <br>
+                    <a href="{{ item.url }}">{{ item.title }}</a> {% else %}
+                    <br> {{ item.title }} {% endif %} {% endfor %}
+                </div>
+                {% endfor %}
+
+                <div class="col-lg-12" style="margin-top:40px;">
+                    <h3>Description</h3>
+                    <p>{{ page.description }}</p>
+
+                    {% if page.features %}
+                    <h3>Features</h3>
+                    <ul>
+                        {% for feature in page.features %}
+                        <li>{{ feature.title }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+                {% if page.includeMedia == true %}
+                <div class="col-lg-12" style="margin-top:40px;">
+                    <h3>Media</h3>
+
+                    {% capture imagePath %}{{ page.folderPath }}/images{% endcapture %} {% for image in site.static_files %} {% if image.path
+                    contains imagePath %}
+                    <div class="col-lg-4 text-center" style="padding-bottom:5px;">
+                        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+                            <img class="img-thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
+                    </div>
+                    {% endif %} {% endfor %} {% for vid in page.video %}
+                    <div class="col-lg-4 text-center">
+                        <iframe class="img-responsive img-thumbnail" style="width: 100%; height: 200px;" src="{{ vid.url }}" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endif %} 
+                {% if page.includeLogo == true %}
+                <div class="col-lg-12" style="margin-top:40px;">
+                    <h3>Logo</h3>
+
+                    {% capture imagePath %}{{ page.folderPath }}/logo{% endcapture %} {% for image in site.static_files %} {% if image.path
+                    contains imagePath %}
+                    <div class="col-lg-4 text-center" style="padding-bottom:5px;">
+                        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+                            <img class="img-thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
+                    </div>
+                    {% endif %} {% endfor %}
+
+                </div>
+                {% endif %}
+    </section>
+    {% include footer.html %} 
+    {% include js.html %}
+</body>
+</html>
