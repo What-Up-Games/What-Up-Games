@@ -24,8 +24,8 @@
                 </div>
 
                 {% for md in page.metadata %}
-                <div class="col-lg-3">
-                    <b>{{ md.header }}:</b> {% for item in md.items %} {% if item.url %}
+                <div class="col-lg-3 text-center">
+                    <b>{{ md.header }}</b> {% for item in md.items %} {% if item.url %}
                     <br>
                     <a href="{{ item.url }}">{{ item.title }}</a> {% else %}
                     <br> {{ item.title }} {% endif %} {% endfor %}
