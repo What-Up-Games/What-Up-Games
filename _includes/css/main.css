@@ -126,7 +126,14 @@ hr.code-light:after {
     background-color: #{{ site.color.primary }};
 }
 
+hr.code-primary {
+    border-color: #{{ site.color.secondary }};
+}
 
+hr.code-primary:after {
+    color: #{{ site.color.secondary }};
+    background-color: #fff;
+}
 
 
 hr.social-light,

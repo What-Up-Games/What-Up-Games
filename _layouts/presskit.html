@@ -37,14 +37,28 @@
                     <p>{{ page.description }}</p>
 
                     {% if page.features %}
-                    <h3>Features</h3>
+                    </br>
+                    <h3>Key Features</h3>
                     <ul>
                         {% for feature in page.features %}
                         <li>{{ feature.title }}</li>
                         {% endfor %}
                     </ul>
                     {% endif %}
+
+                    {% if page.gameModes %}
+                    </br>
+                    <h3>Game Modes</h3>
+                    <ul>
+                        {% for mode in page.gameModes %}
+                        <h4 style="text-align: left; margin-top:10px; padding-top:10px;">{{ mode.title }}</h4>
+                        {{ mode.description }}
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+
                 </div>
+
                 {% if page.includeMedia == true %}
                 <div class="col-lg-12" style="margin-top:40px;">
                     <h3>Media</h3>
