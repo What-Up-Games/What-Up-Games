@@ -12,7 +12,7 @@
 
                         <ul class="list-inline">
                             {% if page.status == 'Development' %}
-                            <h4><a href="{{ page.demoHyperlink }}">{{ page.statusFriendlyDescription }}</a></h4>
+                            <h3><a href="{{ page.demoHyperlink }}" style="color:white;">{{ page.statusFriendlyDescription }}</a></h3>
                             {% endif %} {% for plat in platforms %}
                             <li>
                                 <a href="{{ plat.url }}" class="btn-social game-platforms btn-outline"><i class="fa fa-fw fa-{{ plat.url-type }} game-plat"></i></a>
