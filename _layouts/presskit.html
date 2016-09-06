@@ -39,7 +39,7 @@
                     {% if page.features %}
                     </br>
                     <h3>Key Features</h3>
-                    <ul>
+                    <ul style="margin-left:-20px">
                         {% for feature in page.features %}
                         <li>{{ feature.title }}</li>
                         {% endfor %}
@@ -49,12 +49,10 @@
                     {% if page.gameModes %}
                     </br>
                     <h3>Game Modes</h3>
-                    <ul>
                         {% for mode in page.gameModes %}
                         <h4 style="text-align: left; margin-top:10px; padding-top:10px;">{{ mode.title }}</h4>
                         {{ mode.description }}
                         {% endfor %}
-                    </ul>
                     {% endif %}
 
                 </div>
