@@ -7,7 +7,7 @@ author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]
-excerpt: 
+excerpt: We recently had the pleasure of showing Nothin' But Net at PAX West 2016 and released a free demo. We were humbly surprised by the reception and received great feedback...
 widgetUrl: http://store.steampowered.com/app/496790/
 ---
 <img src="{{site.base}}/NothinButNet/2016-09-11/KB_Projector.png" class="img-responsive img-thumbnail" />
