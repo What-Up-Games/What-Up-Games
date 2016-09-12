@@ -8,7 +8,7 @@ comments: true
 game: NothinButNet
 categories: [NothinButNet]
 excerpt: 
-widgetUrl: http://store.steampowered.com/widget/524000/
+widgetUrl: http://store.steampowered.com/app/496790/
 ---
 <img src="{{site.base}}/NothinButNet/2016-09-11/KB_Projector.png" class="img-responsive img-thumbnail" />
 
