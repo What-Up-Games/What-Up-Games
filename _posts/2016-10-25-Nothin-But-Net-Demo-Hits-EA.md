@@ -11,9 +11,9 @@ excerpt: We are pleased to announce that Nothin' But Net will enter Early Access
 widgetUrl: http://store.steampowered.com/app/496790/
 ---
 
-We are pleased to announce that Nothin' But Net will enter Early Access (EA) via Steam on November 17th! While this is about two weeks later than we'd originally planned for, some aspects of the game were not feeling quite as polished as we would like. We thought you guys might enjoy hearing about some of the features that will be in the first early access release!
+<img src="{{site.base}}/NothinButNet/2016-09-11/KevinBots.png" class="img-responsive img-thumbnail" />
 
-<img src="{{site.base}}/NothinButNet/2016-09-11/KB_Projector.png" class="img-responsive img-thumbnail" />
+We are pleased to announce that Nothin' But Net will enter Early Access (EA) via Steam on November 17th! While this is about two weeks later than we'd originally planned for, some aspects of the game were not feeling quite as polished as we would like. We thought you guys might enjoy hearing about some of the features that will be in the first early access release!
 
 Once again, we’d like to thank everyone who provided feedback after playing the Nothin’ But Net demo. It has been instrumental in helping us refine the game play and track down some pesky bugs. Also, for those of you that we met at PAX West - We will be sending the winners of the competition the details on how to unlock their free copy closer to the EA launch date. 
 <br/>
