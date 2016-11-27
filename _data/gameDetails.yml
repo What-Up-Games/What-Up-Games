@@ -3,7 +3,7 @@
 game:
 - title: Nothin' But Net
   status: Under Development
-  description: Nothin’ But Net (NBN) is built from the ground up with the goal of bringing realistic sports simulation to your VR play space. In NBN, you can play different variations of basketball on a life-sized gymnasium, challenging your friends in up to five different game modes including H.O.R.S.E., Knockout, Shot Blocker and Rapid Fire. Or, play solo in Free Throw or Rapid Fire game modes.
+  description: Nothin’ But Net (NBN) is built from the ground up with the goal of bringing realistic sports simulation to your VR play space. In NBN, you can play different variations of basketball on a life-sized gymnasium, challenging your friends in up to five different game modes including H.O.R.S.E., Knockout, Shot Blocker and Rapid Fire. Or, play solo in six different game modes.
   image: frontPage.png
   folderPath: NothinButNet 
 - title: Battle Tub
