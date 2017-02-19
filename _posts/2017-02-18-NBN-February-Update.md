@@ -70,18 +70,6 @@ To make it fair, the setup will be different depending on the amount of people p
     <li>Email us at <a href="mailto:support@whatupgames.com">support@whatupgames.com</a></li>
 </ul>
 
-
-
-# Nothin' But Net - Patch Notes
-## 2.0.890
-
-- Added support for online multiplayer, including four game modes: Speedball, H.O.R.S.E., Rapid Fire and Free Throw.
-- Converted the center court logos over to hat emblems.
-- 3-Point Shootout now shows the amount you scored when making a basket.
-- Addressed a bug a that caused teleportation to show as 'green' (available) rather than 'red' (blocked).
-- Added more sounds.
-- General performance improvements.
-
 <h1>Wrap-Up</h1>
 This update is just the beginning for multiplayer! We have two more modes under development, along with being able to match up with your friends and a better lobby flow. 
 
