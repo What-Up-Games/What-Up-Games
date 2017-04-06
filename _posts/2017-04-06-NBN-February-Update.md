@@ -61,15 +61,6 @@ To make it fair, the setup will be different depending on the amount of people p
     <li><u>Four People:</u> You’ll be paired up with one other person at the same hoop. The other two people will be on the other side of the court, paired up as well.</li>
 </ul>
 
-<h1></h1>
-
-<ul>
-    <li>The community Forum on Steam</li>
-    <li>Tweet to us at <a href="https://twitter.com/whatupgames">@whatupgames</a></li>
-    <li>Message us on <a href="https://www.facebook.com/whatupgames/">Facebook</a></li>
-    <li>Email us at <a href="mailto:support@whatupgames.com">support@whatupgames.com</a></li>
-</ul>
-
 <h1>Wrap-Up</h1>
 This update is just the beginning for multiplayer! We have two more modes under development, along with being able to match up with your friends and a better lobby flow. 
 

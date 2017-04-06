@@ -2,7 +2,7 @@
 layout: post
 title: Java Tapper is now Available on Android!
 date: 2015-07-04 15:45
-author: yecats131
+author: Stacey Haffner
 comments: true
 categories: [javaTapper]
 game: javaTapper
