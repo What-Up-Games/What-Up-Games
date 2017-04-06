@@ -67,7 +67,7 @@ We've also included several smaller fixes:
     <li>Online leaderboard now takes into account time played in addition to overall score, as everyone would always have a max of 20 points.</li>
 </ol>
 
-<h1>Known Issues</h1>
+<b>Known Issues</b>
 <ol>
     <li>Sometimes you are not automatically teleported when advancing in Speed-Ball. This happens when the toss goes near/through the net of the hoop.</li>
     <li>The spin pad does not always shut off when online. This does not impact game play.</li>
