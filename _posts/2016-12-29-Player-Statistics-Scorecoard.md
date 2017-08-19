@@ -3,7 +3,6 @@ layout: post
 title: Game Mode Player Statistics Update
 shortTitle: Game Mode Player Statistics
 date: 2016-12-29
-author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]

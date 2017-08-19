@@ -3,7 +3,6 @@ layout: post
 title: Dumpster Dash Update Released on Android & PC
 shortTitle: Dumpster Dash Update Released on Android & PC
 date: 2015-08-30
-author: Stacey Haffner
 comments: true
 game: dumpsterDash
 categories: [dumpsterdash]

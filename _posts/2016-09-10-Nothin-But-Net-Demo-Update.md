@@ -3,7 +3,6 @@ layout: post
 title: Nothin' But Net Demo Update
 shortTitle: Nothin' But Net Demo Update
 date: 2016-09-11
-author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]

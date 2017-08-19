@@ -2,7 +2,6 @@
 layout: post
 title: Dumpster Dash is Now Available on Android!
 date: 2015-06-08 23:53
-author: Stacey Haffner
 comments: true
 categories: [DumpsterDash]
 game: dumpsterDash

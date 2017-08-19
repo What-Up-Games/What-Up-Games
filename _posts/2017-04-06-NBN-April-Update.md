@@ -3,7 +3,6 @@ layout: post
 title: Nothin' But Net April Update
 shortTitle: Nothin' But Net April Update
 date: 2017-04-06
-author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]

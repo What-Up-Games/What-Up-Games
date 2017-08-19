@@ -2,7 +2,6 @@
 layout: post
 title: Dumpster Dash is now on PC!
 date: 2015-08-02 11:41
-author: Stacey Haffner
 comments: true
 categories: [dumpsterdash]
 game: dumpsterDash

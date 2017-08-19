@@ -3,7 +3,6 @@ layout: post
 title: Achievement and Player Statistics Update
 shortTitle: Achievement and Player Statistics Update
 date: 2016-12-8
-author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]

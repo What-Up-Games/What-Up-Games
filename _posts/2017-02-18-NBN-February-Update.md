@@ -3,7 +3,6 @@ layout: post
 title: February Update - Now with Online Multiplayer
 shortTitle: February Update - Now with Online Multiplayer
 date: 2017-02-18
-author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]

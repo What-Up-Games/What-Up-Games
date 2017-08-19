@@ -2,7 +2,6 @@
 layout: post
 title: BattleTankz Has Team Multiplayer!
 date: 2015-03-23 02:40
-author: Stacey Haffner
 comments: true
 categories: [battletankz]
 game: battleTankz

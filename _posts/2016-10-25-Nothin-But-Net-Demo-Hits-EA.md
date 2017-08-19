@@ -3,7 +3,6 @@ layout: post
 title: Nothin' But Net November Update (v1.10)
 shortTitle:  Nothin' But Net November Update (v1.10)
 date: 2016-11-24
-author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]

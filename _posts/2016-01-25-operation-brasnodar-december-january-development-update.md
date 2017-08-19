@@ -3,7 +3,6 @@ layout: post
 title: Operation Brasnodar December & January Development Update
 shortTitle: Operation Brasnodar Dec & Jan Update
 date: 2016-01-25
-author: Stacey Haffner
 comments: true
 game: operationBrasnodar
 categories: [operationBrasnodar]

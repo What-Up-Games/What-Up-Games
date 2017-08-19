@@ -3,7 +3,6 @@ layout: post
 title: Basketball Meets Virtual Reality
 shortTitle: Basketball Meets Virtual Reality
 date: 2016-06-19
-author: Stacey Haffner
 comments: true
 game: NothinButNet
 categories: [NothinButNet]

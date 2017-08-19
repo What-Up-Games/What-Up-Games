@@ -2,7 +2,6 @@
 layout: post
 title: Dumpster Dash now has Trophy Support with Game Jolt!
 date: 2015-08-12 16:22
-author: Stacey Haffner
 comments: true
 categories: [dumpsterDash]
 game: dumpsterDash

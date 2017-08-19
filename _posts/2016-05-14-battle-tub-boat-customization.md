@@ -3,7 +3,6 @@ layout: post
 title: Battle Tub Boat Customization
 shortTitle: Battle Tub Boat Customization
 date: 2016-05-14
-author: Stacey Haffner
 comments: true
 game: battleTub
 categories: [battletub]
