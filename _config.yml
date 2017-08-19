@@ -37,15 +37,11 @@ social:
   - title: twitter
     url: http://twitter.com/whatupgames
   - title: youtube
-    url: https://www.youtube.com/channel/UC4kQ2w__P06Rw1403e4Tmqw
-  - title: twitch
-    url: http://www.twitch.tv/yecats131    
+    url: https://www.youtube.com/channel/UC4kQ2w__P06Rw1403e4Tmqw  
   - title: facebook
     url: http://www.facebook.com/whatupgames
   - title: github
     url: http://github.com/What-Up-Games
-  - title: google-plus
-    url: https://plus.google.com/107322421833659638309
   - title: envelope-o
     url: mailto:support@whatupgames.com?subject=Support Question
 
