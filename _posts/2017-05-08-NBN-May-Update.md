@@ -10,7 +10,7 @@ excerpt: We are happy to finally release the last two online game modes for Noth
 widgetUrl: http://store.steampowered.com/app/496790/
 ---
 
-We are happy to finally release the last two online game modes for <a href="http://www.whatupgames.com/NothinButNet/">Nothin' But Net></a>; Team Speed-Ball and Knockout! 
+We are happy to finally release the last two online game modes for <a href="http://www.whatupgames.com/NothinButNet/">Nothin' But Net</a>; Team Speed-Ball and Knockout! 
 
 <h1>Knockout</h1>
 
