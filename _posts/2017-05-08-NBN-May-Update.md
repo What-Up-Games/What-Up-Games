@@ -10,7 +10,7 @@ excerpt: We are happy to finally release the last two online game modes for Noth
 widgetUrl: http://store.steampowered.com/app/496790/
 ---
 
-We are happy to finally release the last two online game modes for Nothin’ But Net; Team Speed-Ball and Knockout! 
+We are happy to finally release the last two online game modes for <a href="http://www.whatupgames.com/NothinButNet/">Nothin' But Net></a>; Team Speed-Ball and Knockout! 
 
 <h1>Knockout</h1>
 
@@ -53,7 +53,7 @@ We've also included several smaller fixes:
     <li>Moved the custom assets folder from the game install location to the users directory of Windows.</li>
     <li>Updated the tutorial so that you no longer need to click "okay" before starting the action.</li>
     <li>General tutorial text updates.</li>
-    <li>Fixed several bugs</li>
+    <li>Fixed several bugs.</li>
 </ol>
 
 <h1>Wrap-Up</h1>

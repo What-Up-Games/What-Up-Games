@@ -10,7 +10,7 @@ excerpt: Today we’ve released an update that adds support for online lobbies, 
 widgetUrl: http://store.steampowered.com/app/496790/
 ---
 
-Today we’ve released an update that adds support for online lobbies, push-to-talk, gives you access to your statistics outside of the end of the game mode and contains many performance and visual enhancements (among other things)! 
+Today we’ve released an update to <a href="http://www.whatupgames.com/NothinButNet/">Nothin' But Net></a> that adds support for online lobbies, push-to-talk, gives you access to your statistics outside of the end of the game mode and contains many performance and visual enhancements (among other things)! 
 
 <h1>Push-To-Talk</h1>
 We’ve added support for push-to-talk in voice. You’ll need to enable this by default in the menu. To turn it on, push the lower half of the touch pad on the Vive controller or the X button on the Touch controller.
