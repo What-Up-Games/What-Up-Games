@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nothin' But Net April Update
-shortTitle: Nothin' But Net April Update
+title: New game modes, Lobbies, Push to Talk and more!
+shortTitle: New game modes, Lobbies, Push to Talk and more!
 date: 2017-04-06
 comments: true
 game: NothinButNet
