@@ -33,7 +33,19 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: 'Luckiest Guy', cursive, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    /*font-weight: 700; */
+}
+
+div.col-lg-12 h3
+{
+    font-size: 35px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+div.col-lg-12 h3
+{
+    font-size: 30px;
 }
 
 hr.gamepad-light,
@@ -240,9 +252,9 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Luckiest Guy', cursive, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
-    font-weight: 700;
+    /*font-weight: 700; */
 }
 
 header .intro-text .skills {
