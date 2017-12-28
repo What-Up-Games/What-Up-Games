@@ -36,16 +36,33 @@ h6 {
     /*font-weight: 700; */
 }
 
-div.col-lg-12 h3
+div.col-lg-12 h2
 {
-    font-size: 35px;
+    font-size: 40px;
     padding-bottom: 0;
     margin-bottom: 0;
 }
 
-div.col-lg-12 h2
+div.col-lg-12 h3, h4
 {
-    font-size: 30px;
+    !font-size: 30px;
+}
+
+div.col-lg-12 h4
+{
+    font-size: 25px;
+}
+
+div.col-lg-12 h5, h6
+{
+    font-size: 20px;
+}
+
+.navbar-default a
+{
+    text-transform: uppercase;
+    font-family: 'Luckiest Guy', cursive, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
 }
 
 hr.gamepad-light,
