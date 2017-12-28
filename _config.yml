@@ -34,13 +34,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: fab fa-twitter
     url: http://twitter.com/whatupgames
-  - title: youtube
+  - title: fab fa-youtube
     url: https://www.youtube.com/channel/UC4kQ2w__P06Rw1403e4Tmqw  
-  - title: facebook
+  - title: fab fa-facebook-f
     url: http://www.facebook.com/whatupgames
-  - title: envelope-o
+  - title: fas fa-envelope
     url: mailto:support@whatupgames.com?subject=Support Question
 
     

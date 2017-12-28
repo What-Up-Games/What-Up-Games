@@ -1,13 +1,16 @@
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-
-
-
-            <h2>Latest News</h2>
-<hr class="latestNews-primary">
-
-
+        <div class="container">  
+            <div class="row">
+            <div class="col-lg-12 text-center">
+                                                                    
+                    <h2>Latest News</h2>
+                <div class=" header-divider" align="center">
+                    <div class="inline-block">
+                        <span class="fa fa-newspaper fa-2x"></span>
+                    </div>
+                <hr align="center">
+                </div>
+                            </div>
+                            <div style="margin-top: 120px;">
             {% assign blogPosts = site.posts | where:'game', page.postGameName %}
 <br />
             {% for post in blogPosts %} 
@@ -32,8 +35,7 @@
                 <h5>{{ vid.title }}</br> ({{ vid.date }}) </h5>
             </div>
             {% endfor %}
-
-        </div>
-    </div>
-</div>
-</section>
+                    </div>
+                    
+                </div>
+            </div>          

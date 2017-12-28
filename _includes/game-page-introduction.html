@@ -15,14 +15,13 @@
                             <h4><a href="{{ page.demoHyperlink }}" style="color:white;">{{ page.statusFriendlyDescription }}</a></h4>
                             {% endif %} {% for plat in platforms %}
                             <li>
-                                <a href="{{ plat.url }}" class="btn-social game-platforms btn-outline"><i class="fa fa-fw fa-{{ plat.url-type }} game-plat"></i></a>
+                                <a href="{{ plat.url }}" class="btn-social game-platforms btn-outline"><i class="fab fa-{{ plat.url-type }} game-plat"></i></a>
                             </li>
                             {% endfor %}
 
                         </ul>
                         {% if page.widgetUrl %}
-                                            <button style="display:inline-block;border-radius:3px;padding: 0.3em 0.8em;margin:.25em;border-style: none;background-color: #419641;/* border-color:#3e8f3e; */background-image:linear-gradient(to bottom,#5cb85c 0,#419641 100%);font-size: 20px;box-shadow: 2px 8px 15px 1px rgba(0, 0, 0, 0.10), inset 0 1px 1px rgba(255, 255, 255, 0.8);"><a style="color: #ffffff !important; text-decoration:none;" target="_blank" href="{{ page.widgetUrl }}">Play Now</a> </button>
-{% endif %}
+                        <button style="display:inline-block;border-radius:3px;padding: 0.3em 0.8em;margin:.25em;border-style: none;background-color: #419641;/* border-color:#3e8f3e; */background-image:linear-gradient(to bottom,#5cb85c 0,#419641 100%);font-size: 20px;box-shadow: 2px 8px 15px 1px rgba(0, 0, 0, 0.10), inset 0 1px 1px rgba(255, 255, 255, 0.8);"><a style="color: #ffffff !important; text-decoration:none;" target="_blank" href="{{ page.widgetUrl }}">Play Now</a> </button>                        {% endif %}
                     </p>
 
                 </div>
