@@ -69,7 +69,38 @@ div.col-lg-12 h5, h6
     width:100%;
 }
 
+.bgimage-jellyBowl {
+  width:100%;
+  height:625px;
+  background: url('../jellyBowlXXIV/hero3.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+}
 
+.bgimage-jellyBowl h1 {
+  color:white;
+  text-shadow:2px 2px #333;
+  width:100%;
+  padding-top: 25px;
+  text-align: center;
+  font-size: 100px;
+}
+.bgimage-jellyBowl h2 {
+  color:white;
+  text-shadow:2px 2px #333;
+  width:100%;
+  text-align: center;
+}
+.bgimage-jellyBowl p {
+  color:white;
+  font-weight: 700;
+  padding-top:15px;
+  width:100%;
+  text-align: center;
+  font-size: 20px;
+}
 
 .inline-block-grey {
   display: inline-block;

@@ -1,6 +1,11 @@
   
 # Game Information
 game:
+- title: Jelly Bowl XXIV
+  status: Under Development
+  description: Jelly Bowl XXIV is a fast-paced competitive game in which each player battles to collect the most amount of energy. Use your three offense abilities (range attack, melee attack and a shock wave) and defensive ability (shield) strategically to protect your energy or steal from other players. 
+  image: frontPage.png
+  folderPath: jellyBowlXXIV
 - title: Nothin' But Net
   status: Under Development
   description: Nothin’ But Net (NBN) is built from the ground up with the goal of bringing realistic sports simulation to your VR play space. In NBN, you can play different variations of basketball on a life-sized gymnasium, challenging your friends in up to five different game modes including H.O.R.S.E., Knockout, Shot Blocker and Rapid Fire. Or, play solo in six different game modes.
