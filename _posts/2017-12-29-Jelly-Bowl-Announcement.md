@@ -18,7 +18,7 @@ Once every few years, a Jelly Bowl is held to determine who the next ruler of al
 <br><br>
 In Jelly Bowl XXIV, you’ll battle up to five other players to collect the most amount of energy (or sugar, we're not sure which yet), either by grabbing newly spawned energy or stealing them from your opponent. Movement is a core component of the game – timed just right, you can speed across the arena quickly. If you are hit, either by smacking into the environment or by another player, then you’ll lose all control for a brief period of time making you a prime target. If the hit was from a player, you'll drop all of the energy that you were carrying - opening it up for others to steal!
 
-<iframe class="img-responsive img-thumbnail" style="width: 960px; height: 500px;"  src="https://www.youtube.com/embed/4rUCatb2vuc" frameborder="0" allowfullscreen></iframe>
+<iframe class="img-responsive img-thumbnail" style="width: 960px; height: 500px;"  src="https://www.youtube.com/embed/wWNsS-t2zU8" frameborder="0" allowfullscreen></iframe>
 
 <br><br>
 <h2> Abilities and Configurations </h2>
