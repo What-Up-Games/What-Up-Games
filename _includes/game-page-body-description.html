@@ -1,0 +1,27 @@
+        <div class="container">  
+            <div class="row">
+            <div class="col-lg-12 text-center">
+
+             <h1 style="margin-bottom: 21px; text-shadow: 2px 2px 2px #333; font-size: 100px; color: #851a1d;">{{ page.game }}</h1>
+
+                    <p style="margin-top: 10.5px;">
+                        {{ page.friendlyDescription }} <br><br> {% assign platforms = site.data.games.gameDownload | where:'title',
+                        page.game %}
+
+                        <ul class="list-inline">
+                            {% if page.status == 'Development' %}
+                            <h4><a href="{{ page.demoHyperlink }}">{{ page.statusFriendlyDescription }}</a></h4>
+                            {% endif %} {% for plat in platforms %}
+                            <li>
+                                <a href="{{ plat.url }}" class="btn-social-dark game-platforms btn-outline-dark game-plat-color-{{ plat.url-color }}"><i class="fab fa-{{ plat.url-type }} game-plat"></i></a>
+                            </li>
+                            {% endfor %}
+ 
+                        </ul>
+                        {% if page.widgetUrl %}
+                        <button style="display:inline-block;border-radius:3px;padding: 0.3em 0.8em;margin:.25em;border-style: none;background-color: #419641;/* border-color:#3e8f3e; */background-image:linear-gradient(to bottom,#5cb85c 0,#419641 100%);font-size: 20px;box-shadow: 2px 8px 15px 1px rgba(0, 0, 0, 0.10), inset 0 1px 1px rgba(255, 255, 255, 0.8);"><a style="color: #ffffff !important; text-decoration:none;" target="_blank" href="{{ page.widgetUrl }}">Play Now</a> </button>                        {% endif %}
+                    </p>
+                    </div>
+                    
+                </div>
+            </div>          

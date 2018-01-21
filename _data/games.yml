@@ -1,25 +1,44 @@
-  
+#colors
+#android - 8fc254
+#xbox - c2c2c2
+#windows - 00adef
+#white - FFFFFF
+
 # Game List
 gameTitles: 
  - title: Dumpster Dash
  - title: Java Tapper
  - title: Conveyor Mania
- 
+ - title: Cafe Express-O
+
 gameDownload:
  - title: Dumpster Dash
    url-type: android
+   url-color: 8fc254   
    url: https://play.google.com/store/apps/details?id=com.WhatUpGames.DumpsterDash
  - title: Dumpster Dash
    url-type: windows
+   url-color: 00adef   
    url: http://gamejolt.com/games/dumpster-dash/82186
  - title: Java Tapper
    url-type: android
+   url-color: 8fc254   
    url: https://play.google.com/store/apps/details?id=com.whatupgames.javatapper
- - title: Java Tapper
+ - title: Cafe Express-O
+   url-type: xbox
+   url-color: 117d10
+   url: https://www.microsoft.com/store/apps/9P8NLWZ0S5FK
+ - title: Cafe Express-O
    url-type: windows
-   url: http://gamejolt.com/games/java-tapper/76186     
+   url-color: 00adef   
+   url: https://www.microsoft.com/store/apps/9P8NLWZ0S5FK 
+ - title: Cafe Express-O
+   url-type: android
+   url-color: 8fc254
+   url: https://www.microsoft.com/store/apps/9P8NLWZ0S5FK      
  - title: Conveyor Mania
    url-type: android
+   url-color: 8fc254
    url: https://play.google.com/store/apps/details?id=com.WhatUpGames.ConveyorMania  
 ##Uncomment this when Nothin' But Net has a logo for PS4
 # - title: Nothin' But Net
