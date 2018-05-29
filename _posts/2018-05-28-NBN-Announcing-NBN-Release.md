@@ -12,6 +12,7 @@ widgetUrl: http://store.steampowered.com/app/496790/
 
 Nothin’ But Net has actually been considered “feature complete” and ready to leave early access since the last release, in May. We had originally held off for two reasons – to give the community some time to give us feedback and to try and align the PC release with the PlayStationVR release. Since the PlayStationVR release is near complete, we thought we’d just go ahead and release on PC. 
 <br>
+<br>
 This version has the optimizations that we’ve done for the console, added more court logos, player emblems, improved aspects of the physics system as well as added localization support for three additional languages. 
 
 <img src="{{site.base}}/NothinButNet/2018-05-28/post.png" class="img-responsive img-thumbnail" />
