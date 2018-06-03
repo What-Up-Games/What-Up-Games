@@ -4,7 +4,7 @@ title: Announcing Jelly Bowl
 shortTitle: Announcing Jelly Bowl
 date: 2017-12-29
 comments: true
-game: jellyBowl
+game: jellyBowlXXIV
 categories: [jellyBowl]
 excerpt: One of our prototypes felt perfect for the big screen, which we have named Jelly Bowl (and may change later). Jelly Bowl takes inspiration from two games that we enjoyed growing up...
 ---
