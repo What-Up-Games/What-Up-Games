@@ -8,6 +8,7 @@ game: jellyBowlXXIV
 categories: [jellyBowl]
 excerpt: One of our prototypes felt perfect for the big screen, which we have named Jelly Bowl (and may change later). Jelly Bowl takes inspiration from two games that we enjoyed growing up...
 ---
+<strong>Update:</strong> Jelly Bowl has been accepted into ID@Xbox! We'll be releasing through that program, rather than the Xbox Live Creators Program. <br/><br/>
  <i style="font-size:18px;"><b>Note:</b> The graphics, colors and names are all placeholders and will change throughout development.</i>
 
  We’ve decided for our next game to target the Xbox One through the <a href="https://www.xbox.com/en-US/developers/creators-program"> Xbox Live Creators Program</a>. One of our prototypes felt perfect for the big screen, which we have named Jelly Bowl (and may change later). Jelly Bowl takes inspiration from two games that we enjoyed growing up. The movement mechanic is similar to that of <a href="https://en.wikipedia.org/wiki/Worms_(series)">Worms</a>, while the first game mode is a throwback to the HeadHunters mod for Quake 1. We wanted to design Jelly Bowl to be a very fast-paced, strategic game that you can get going in easily but still takes skill to master.
