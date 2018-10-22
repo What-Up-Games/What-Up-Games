@@ -16,16 +16,6 @@ game:
   description: Nothin’ But Net (NBN) is built from the ground up with the goal of bringing realistic sports simulation to your VR play space. In NBN, you can play different variations of basketball on a life-sized gymnasium, challenging your friends in up to five different game modes including H.O.R.S.E., Knockout, Shot Blocker and Rapid Fire. Or, play solo in six different game modes.
   image: frontPage.png
   folderPath: NothinButNet 
-- title: Battle Tub
-  status: Under Development
-  description: You know all those times you got into a debate with your buddy on who would win in a team vs. team battle of the toy boats but were never able to prove it was you? Well, we're happy to say we've got you covered! In Battle Tub, you can show off your awesome boat driving and rubber ducky dodging skills while kicking your friends butt! 
-  image: frontPage.png
-  folderPath: battleTub 
-- title: Operation Brasnodar
-  status: Under Development
-  description: “Operation Brasnodar” is the first city under development for a multiplayer tactical espionage game. Game play will focus around small team PvP and possible co-op play. Players will take on the role of an operative in the Quail, or become a member of the Agency. The Quail focuses on completing missions in order to take down the Agency and free those who have been mind controlled. The Agency is out to catch all members of the Quail and silence the uprising.
-  image: frontPage.png 
-  folderPath: operationBrasnodar
 - title: Dumpster Dash
   status: Released
   description: Dumpster Dash is a fast paced "tap" style game that tests how quickly you can react to new obstacles. Compete with your friends to see who can grab the most dumpsters with their dumpster truck before the time runs out or you accidentally send little Fluffy or Spot to heaven.
