@@ -3,7 +3,7 @@
 game:
 - title: Jelly Bowl
   status: Under Development
-  description: Jelly Bowl is a fast-paced competitive game in which each player battles to collect the most amount of energy. Use your three offense abilities (range attack, melee attack and a shock wave) and defensive ability (shield) strategically to protect your energy or steal from other players. 
+  description: Jelly Bowl is a fast-paced competitive game in which each jelly battle to collect the most amount of sugar crystals in different trials. Players can choose from a range of abilities to customize their champion to fit their playstyle, be it more guarded with a series of defensive abilities, more aggressive with offensive abilities or a hybrid of both.
   image: frontPage.png
   folderPath: jellyBowlXXIV
 - title: Cafe Express-O
